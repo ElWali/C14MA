@@ -1,0 +1,3575 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.83,
+          35.53
+        ]
+      },
+      "properties": {
+        "site_name": "Oued Tahadart",
+        "lab_code": "BETA-172811",
+        "c14_age_bp": 5490,
+        "c14_error": 40,
+        "material_dated": "bone (human)",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "DaugasEldrissi.2008DonDoc",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.83,
+          35.53
+        ]
+      },
+      "properties": {
+        "site_name": "Oued Tahadart",
+        "lab_code": "BETA-182784",
+        "c14_age_bp": 5930,
+        "c14_error": 40,
+        "material_dated": "bone (human)",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Martinez-SanchezVera-Rodriguez.2018.TheBeg",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2553,
+          35.2144
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri Oudadane",
+        "lab_code": "BETA-295772",
+        "c14_age_bp": 5590,
+        "c14_error": 40,
+        "material_dated": "seeds",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Morales 2013",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2553,
+          35.2144
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri Oudadane",
+        "lab_code": "BETA-295773",
+        "c14_age_bp": 5980,
+        "c14_error": 40,
+        "material_dated": "seeds",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Morales 2013",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2553,
+          35.2144
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri Oudadane",
+        "lab_code": "BETA-295774",
+        "c14_age_bp": 5980,
+        "c14_error": 40,
+        "material_dated": "seeds",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Morales 2013",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2553,
+          35.2144
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri Oudadane",
+        "lab_code": "BETA-295775",
+        "c14_age_bp": 5910,
+        "c14_error": 40,
+        "material_dated": "seeds",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Morales 2013",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2553,
+          35.2144
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri Oudadane",
+        "lab_code": "BETA-295776",
+        "c14_age_bp": 5900,
+        "c14_error": 40,
+        "material_dated": "seeds",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Morales 2013",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2553,
+          35.2144
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri Oudadane",
+        "lab_code": "BETA-295777",
+        "c14_age_bp": 5670,
+        "c14_error": 40,
+        "material_dated": "seeds",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Morales 2013",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2553,
+          35.2144
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri Oudadane",
+        "lab_code": "BETA-295778",
+        "c14_age_bp": 5930,
+        "c14_error": 40,
+        "material_dated": "seeds",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Morales 2013",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2553,
+          35.2144
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri Oudadane",
+        "lab_code": "BETA-295779",
+        "c14_age_bp": 6740,
+        "c14_error": 50,
+        "material_dated": "seeds",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Morales 2013",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2553,
+          35.2144
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri Oudadane",
+        "lab_code": "BETA-313467",
+        "c14_age_bp": 7150,
+        "c14_error": 40,
+        "material_dated": "seeds",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Morales 2013",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2553,
+          35.2144
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri Oudadane",
+        "lab_code": "BETA-313468",
+        "c14_age_bp": 8080,
+        "c14_error": 40,
+        "material_dated": "seeds",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Morales 2013",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2553,
+          35.2144
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri Oudadane",
+        "lab_code": "BETA-316137",
+        "c14_age_bp": 6780,
+        "c14_error": 40,
+        "material_dated": "seeds",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Morales 2013",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9061,
+          35.7871
+        ]
+      },
+      "properties": {
+        "site_name": "El Khil (Cave B)",
+        "lab_code": "BETA-316505",
+        "c14_age_bp": 5490,
+        "c14_error": 40,
+        "material_dated": "seeds",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Martinez-SanchezVera-Rodriguez.2018TheMid",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9061,
+          35.7871
+        ]
+      },
+      "properties": {
+        "site_name": "El Khil (Cave B)",
+        "lab_code": "BETA-316506",
+        "c14_age_bp": 5420,
+        "c14_error": 40,
+        "material_dated": "seeds",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Martinez-SanchezVera-Rodriguez.2018TheMid",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9061,
+          35.7871
+        ]
+      },
+      "properties": {
+        "site_name": "El Khil (Cave C)",
+        "lab_code": "BETA-316507",
+        "c14_age_bp": 5450,
+        "c14_error": 30,
+        "material_dated": "grain",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Martinez-SanchezVera-Rodriguez.2018TheMid",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9061,
+          35.7871
+        ]
+      },
+      "properties": {
+        "site_name": "Khil (Grotte B)",
+        "lab_code": "BETA-3165505",
+        "c14_age_bp": 5490,
+        "c14_error": 40,
+        "material_dated": "seed/fruit",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Mor\u00e1n Hern\u00e1ndez 2015 245",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4519,
+          35.8569
+        ]
+      },
+      "properties": {
+        "site_name": "Hafa II Cave",
+        "lab_code": "BETA-318454",
+        "c14_age_bp": 3260,
+        "c14_error": 30,
+        "material_dated": "unknown",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Erlandson J. 1989",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2553,
+          35.2144
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri Oudadane",
+        "lab_code": "BETA-318608",
+        "c14_age_bp": 6140,
+        "c14_error": 30,
+        "material_dated": "seeds",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Morales 2013",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9061,
+          35.7871
+        ]
+      },
+      "properties": {
+        "site_name": "El Khil (Cave B)",
+        "lab_code": "BETA-331847",
+        "c14_age_bp": 5790,
+        "c14_error": 30,
+        "material_dated": "bone (animal)",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Harington 2003: 360",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.431,
+          35.4965
+        ]
+      },
+      "properties": {
+        "site_name": "Kaf Taht el Ghar",
+        "lab_code": "BETA-331985",
+        "c14_age_bp": 6190,
+        "c14_error": 40,
+        "material_dated": "grain",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Morales 2016",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.431,
+          35.4965
+        ]
+      },
+      "properties": {
+        "site_name": "Kaf Taht el Ghar",
+        "lab_code": "BETA-331986",
+        "c14_age_bp": 5400,
+        "c14_error": 30,
+        "material_dated": "grain",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Morales 2016",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.431,
+          35.4965
+        ]
+      },
+      "properties": {
+        "site_name": "Kaf Taht el Ghar",
+        "lab_code": "BETA-331987",
+        "c14_age_bp": 6390,
+        "c14_error": 30,
+        "material_dated": "grain",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Morales 2016",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.906,
+          35.787
+        ]
+      },
+      "properties": {
+        "site_name": "Khil (Grotte C)",
+        "lab_code": "BETA-365507",
+        "c14_age_bp": 5450,
+        "c14_error": 30,
+        "material_dated": "seed/fruit",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.431,
+          35.4965
+        ]
+      },
+      "properties": {
+        "site_name": "Kaf Taht el Ghar",
+        "lab_code": "BETA-409693",
+        "c14_age_bp": 6410,
+        "c14_error": 30,
+        "material_dated": "bone (animal)",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9319,
+          33.8806
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri n Amr ou Moussa",
+        "lab_code": "BETA-411102",
+        "c14_age_bp": 6110,
+        "c14_error": 30,
+        "material_dated": "charred fruit",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Haour et al 2016",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.431,
+          35.4965
+        ]
+      },
+      "properties": {
+        "site_name": "Kaf Taht el Ghar",
+        "lab_code": "BETA-424637",
+        "c14_age_bp": 6410,
+        "c14_error": 30,
+        "material_dated": "tooth (human)",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Martinez-SanchezVera-Rodriguez.2018TheMid",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9061,
+          35.7871
+        ]
+      },
+      "properties": {
+        "site_name": "El Khil (Cave C)",
+        "lab_code": "BETA-424638",
+        "c14_age_bp": 3890,
+        "c14_error": 30,
+        "material_dated": "tooth (human)",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Elston and Raven 1992",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.41,
+          34.75
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri el Baroud",
+        "lab_code": "BLN-4755",
+        "c14_age_bp": 9677,
+        "c14_error": 60,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Linst\u00e4dter 2012b",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.41,
+          34.75
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri el Baroud",
+        "lab_code": "BLN-4872",
+        "c14_age_bp": 8556,
+        "c14_error": 52,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Mikdad et al. 2000 Moser 2004 Nami 2004",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2455,
+          34.7773
+        ]
+      },
+      "properties": {
+        "site_name": "Hassi Ouenzga",
+        "lab_code": "BLN-4912",
+        "c14_age_bp": 760,
+        "c14_error": 47,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Linst\u00e4dter 2004",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2455,
+          34.7773
+        ]
+      },
+      "properties": {
+        "site_name": "Hassi Ouenzga",
+        "lab_code": "BLN-4935",
+        "c14_age_bp": 156,
+        "c14_error": 46,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Linst\u00e4dter 2004",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3396,
+          34.7856
+        ]
+      },
+      "properties": {
+        "site_name": "Taghit Haddouch",
+        "lab_code": "BLN-5037",
+        "c14_age_bp": 4309,
+        "c14_error": 37,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "LinstadterBroich.2016Defin",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8622,
+          31.2056
+        ]
+      },
+      "properties": {
+        "site_name": "Aougni N'ait Ourigh Neolithic Site. C-1300 (Ouka\u00efmeden)",
+        "lab_code": "CNA-1163",
+        "c14_age_bp": 4278,
+        "c14_error": 50,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Rubinos.2014AppAbs",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8622,
+          31.2056
+        ]
+      },
+      "properties": {
+        "site_name": "Aougni N'ait Ourigh Neolithic Site. C-1300 (Ouka\u00efmeden)",
+        "lab_code": "CNA-1164",
+        "c14_age_bp": 4296,
+        "c14_error": 39,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Rubinos.2014AppAbs",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8622,
+          31.2056
+        ]
+      },
+      "properties": {
+        "site_name": "Aougni N'ait Ourigh Neolithic Site. C-1300 (Ouka\u00efmeden)",
+        "lab_code": "CNA-1165",
+        "c14_age_bp": 5147,
+        "c14_error": 55,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Larsson 2019",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8622,
+          31.2056
+        ]
+      },
+      "properties": {
+        "site_name": "Aougni N'ait Ourigh Neolithic Site. C-1300 (Ouka\u00efmeden)",
+        "lab_code": "CNA-1649",
+        "c14_age_bp": 6145,
+        "c14_error": 35,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Rubinos.2014AppAbs",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8622,
+          31.2056
+        ]
+      },
+      "properties": {
+        "site_name": "Aougni N'ait Ourigh Neolithic Site. C-1300 (Ouka\u00efmeden)",
+        "lab_code": "CNA-1650",
+        "c14_age_bp": 5980,
+        "c14_error": 30,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Rubinos.2014AppAbs",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8622,
+          31.2056
+        ]
+      },
+      "properties": {
+        "site_name": "Aougni N'ait Ourigh Neolithic Site. C-1300 (Ouka\u00efmeden)",
+        "lab_code": "CNA-1652",
+        "c14_age_bp": 6220,
+        "c14_error": 30,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Rubinos.2014AppAbs",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8622,
+          31.2056
+        ]
+      },
+      "properties": {
+        "site_name": "Aougni N'ait Ourigh Neolithic Site. C-1300 (Ouka\u00efmeden)",
+        "lab_code": "CNA-1653",
+        "c14_age_bp": 6320,
+        "c14_error": 30,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Rubinos.2014AppAbs",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8622,
+          31.2056
+        ]
+      },
+      "properties": {
+        "site_name": "Aougni N'ait Ourigh Neolithic Site. C-1300 (Ouka\u00efmeden)",
+        "lab_code": "CNA-1654",
+        "c14_age_bp": 6115,
+        "c14_error": 30,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Rubinos.2014AppAbs",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8622,
+          31.2056
+        ]
+      },
+      "properties": {
+        "site_name": "Aougni N'ait Ourigh Neolithic Site. C-1300 (Ouka\u00efmeden)",
+        "lab_code": "CNA-1655",
+        "c14_age_bp": 8560,
+        "c14_error": 30,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Tovar Fern\u00e1ndez et al. 2014",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8622,
+          31.2056
+        ]
+      },
+      "properties": {
+        "site_name": "Elephant's Shelter C-200",
+        "lab_code": "CNA-801",
+        "c14_age_bp": 4009,
+        "c14_error": 51,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Rubinos.2014AppAbs",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8622,
+          31.2056
+        ]
+      },
+      "properties": {
+        "site_name": "Elephant's Frieze C-800",
+        "lab_code": "CNA-804",
+        "c14_age_bp": 2790,
+        "c14_error": 30,
+        "material_dated": "sediment with charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Rubinos.2014AppAbs",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8622,
+          31.2056
+        ]
+      },
+      "properties": {
+        "site_name": "Aougni N\u2019ait Ourigh C-700 (Ouka\u00efmeden)",
+        "lab_code": "CNA-938",
+        "c14_age_bp": 3200,
+        "c14_error": 39,
+        "material_dated": "sediment with charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Rubinos.2014AppAbs",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8622,
+          31.2056
+        ]
+      },
+      "properties": {
+        "site_name": "Elephant's Frieze C-800",
+        "lab_code": "CNA-939",
+        "c14_age_bp": 2470,
+        "c14_error": 37,
+        "material_dated": "sediment with charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Rubinos.2014AppAbs",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8622,
+          31.2056
+        ]
+      },
+      "properties": {
+        "site_name": "Aougni N\u2019ait Ourigh C-700 (Ouka\u00efmeden)",
+        "lab_code": "CNA-940",
+        "c14_age_bp": 3143,
+        "c14_error": 31,
+        "material_dated": "sediment with charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Lu et al.2009",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8622,
+          31.2056
+        ]
+      },
+      "properties": {
+        "site_name": "Aougni N'ait Ourigh Neolithic Site. C-1300 (Ouka\u00efmeden)",
+        "lab_code": "CSIC-2181",
+        "c14_age_bp": 4582,
+        "c14_error": 45,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Rubinos.2014AppAbs",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8622,
+          31.2056
+        ]
+      },
+      "properties": {
+        "site_name": "Aougni N'ait Ourigh Neolithic Site. C-1300 (Ouka\u00efmeden)",
+        "lab_code": "CSIC-2182",
+        "c14_age_bp": 4303,
+        "c14_error": 46,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Balsera et al. 2015",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8622,
+          31.2056
+        ]
+      },
+      "properties": {
+        "site_name": "Aougni N'ait Ourigh Neolithic Site. C-1300 (Ouka\u00efmeden)",
+        "lab_code": "CSIC-2232",
+        "c14_age_bp": 4476,
+        "c14_error": 33,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Balsera et al. 2015",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2553,
+          35.2144
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri Oudadane",
+        "lab_code": "ERL-12418",
+        "c14_age_bp": 9496,
+        "c14_error": 183,
+        "material_dated": "cereal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Linst\u00e4dter 2012b",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3,
+          35.18
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri Oudadane",
+        "lab_code": "ERL-12419",
+        "c14_age_bp": 7451,
+        "c14_error": 56,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Linst\u00e4dter 2012",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0925,
+          34.7844
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri n'Ammar",
+        "lab_code": "ERL-4395",
+        "c14_age_bp": 11595,
+        "c14_error": 103,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Moser 2004",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0925,
+          34.7844
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri n'Ammar",
+        "lab_code": "ERL-4396",
+        "c14_age_bp": 11519,
+        "c14_error": 105,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Moser 2004",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0925,
+          34.7844
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri n'Ammar",
+        "lab_code": "ERL-4398",
+        "c14_age_bp": 11526,
+        "c14_error": 110,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "CalPal",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0925,
+          34.7844
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri n'Ammar",
+        "lab_code": "ERL-4400",
+        "c14_age_bp": 11853,
+        "c14_error": 105,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Moser 2004",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0925,
+          34.7844
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri n'Ammar",
+        "lab_code": "ERL-4406",
+        "c14_age_bp": 11949,
+        "c14_error": 105,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Czebreszuk/M\u00fcller 2004",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.08,
+          35.27
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri Ouzabour",
+        "lab_code": "ERL-9985",
+        "c14_age_bp": 7666,
+        "c14_error": 76,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "LinstadterBroich.2016Defin",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.08,
+          35.27
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri Ouzabour",
+        "lab_code": "ERL-9986",
+        "c14_age_bp": 7633,
+        "c14_error": 81,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Linst\u00e4dter 2012",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2553,
+          35.2144
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri Oudadane",
+        "lab_code": "ERL-9988",
+        "c14_age_bp": 6175,
+        "c14_error": 50,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Linst\u00e4dter 2008",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1586,
+          35.0886
+        ]
+      },
+      "properties": {
+        "site_name": "Kert River Section D",
+        "lab_code": "GIF-11753",
+        "c14_age_bp": 7935,
+        "c14_error": 45,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "ElAmraniMacaire.2008ContrMorph",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1586,
+          35.0886
+        ]
+      },
+      "properties": {
+        "site_name": "Kert River Section D",
+        "lab_code": "GIF-11755",
+        "c14_age_bp": 3320,
+        "c14_error": 55,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Ngomanda et al. 2005",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1892,
+          35.1369
+        ]
+      },
+      "properties": {
+        "site_name": "Kert River Section G",
+        "lab_code": "GIF-11952",
+        "c14_age_bp": 3300,
+        "c14_error": 50,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "ElAmraniMacaire.2008ContrMorph",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1703,
+          35.1839
+        ]
+      },
+      "properties": {
+        "site_name": "Kert River Section J",
+        "lab_code": "GIF-11954",
+        "c14_age_bp": 5285,
+        "c14_error": 45,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "ElAmraniMacaire.2008ContrMorph",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1622,
+          35.0808
+        ]
+      },
+      "properties": {
+        "site_name": "Kert River Section B",
+        "lab_code": "GIF-11958",
+        "c14_age_bp": 3550,
+        "c14_error": 40,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "ElAmraniMacaire.2008ContrMorph",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1719,
+          35.1236
+        ]
+      },
+      "properties": {
+        "site_name": "Kert River Section F",
+        "lab_code": "GIF-11960",
+        "c14_age_bp": 3670,
+        "c14_error": 65,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Eubar",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1622,
+          35.0808
+        ]
+      },
+      "properties": {
+        "site_name": "Kert River Section B",
+        "lab_code": "GIF-12083",
+        "c14_age_bp": 2875,
+        "c14_error": 65,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "ElAmraniMacaire.2008ContrMorph",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1617,
+          35.0975
+        ]
+      },
+      "properties": {
+        "site_name": "Kert River Section E",
+        "lab_code": "GIF-12084",
+        "c14_age_bp": 7900,
+        "c14_error": 75,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "ElAmraniMacaire.2008ContrMorph",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1622,
+          35.0808
+        ]
+      },
+      "properties": {
+        "site_name": "Kert River Section B",
+        "lab_code": "GIF-12085",
+        "c14_age_bp": 3930,
+        "c14_error": 60,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "ElAmraniMacaire.2008ContrMorph",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1964,
+          35.0633
+        ]
+      },
+      "properties": {
+        "site_name": "Kert River Section A",
+        "lab_code": "GIF-12086",
+        "c14_age_bp": 3410,
+        "c14_error": 55,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "ElAmraniMacaire.2008ContrMorph",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1769,
+          35.1978
+        ]
+      },
+      "properties": {
+        "site_name": "Kert River Section K",
+        "lab_code": "GIF-12087",
+        "c14_age_bp": 3045,
+        "c14_error": 80,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "ElAmraniMacaire.2008ContrMorph",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1622,
+          35.0808
+        ]
+      },
+      "properties": {
+        "site_name": "Kert River Section B",
+        "lab_code": "GIF-12088",
+        "c14_age_bp": 6220,
+        "c14_error": 70,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0,
+          33.6667
+        ]
+      },
+      "properties": {
+        "site_name": "Kaf el-Baroud",
+        "lab_code": "GIF-2888",
+        "c14_age_bp": 4750,
+        "c14_error": 110,
+        "material_dated": "bone (undetermined)",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "CalPal",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0,
+          33.6667
+        ]
+      },
+      "properties": {
+        "site_name": "Kaf el-Baroud",
+        "lab_code": "GIF-2889",
+        "c14_age_bp": 5160,
+        "c14_error": 110,
+        "material_dated": "bone (undetermined)",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.2667,
+          28.0
+        ]
+      },
+      "properties": {
+        "site_name": "Izriten (Tarfaya) Site 11/1a",
+        "lab_code": "GIF-2910",
+        "c14_age_bp": 10430,
+        "c14_error": 180,
+        "material_dated": "bone (human)",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.08,
+          27.7
+        ]
+      },
+      "properties": {
+        "site_name": "Megriou",
+        "lab_code": "GIF-2911",
+        "c14_age_bp": 4450,
+        "c14_error": 110,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Charon et al. 1973",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8333,
+          30.3667
+        ]
+      },
+      "properties": {
+        "site_name": "Foum el Arjam",
+        "lab_code": "GIF-2912",
+        "c14_age_bp": 2360,
+        "c14_error": 250,
+        "material_dated": "bone (human)",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Clist 2004/05",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.33,
+          28.33
+        ]
+      },
+      "properties": {
+        "site_name": "El Ouarr",
+        "lab_code": "GIF-3013",
+        "c14_age_bp": 3550,
+        "c14_error": 120,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "ZielhoferLinstadter.2006Short",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.48,
+          26.83
+        ]
+      },
+      "properties": {
+        "site_name": "Aueital",
+        "lab_code": "GIF-3259",
+        "c14_age_bp": 2000,
+        "c14_error": 90,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.5,
+          26.67
+        ]
+      },
+      "properties": {
+        "site_name": "Medano Santiago",
+        "lab_code": "GIF-3262",
+        "c14_age_bp": 3130,
+        "c14_error": 100,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.48,
+          26.83
+        ]
+      },
+      "properties": {
+        "site_name": "Laasailia",
+        "lab_code": "GIF-3269",
+        "c14_age_bp": 2740,
+        "c14_error": 110,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Eubar",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.42,
+          21.75
+        ]
+      },
+      "properties": {
+        "site_name": "EdjailaII",
+        "lab_code": "GIF-3461",
+        "c14_age_bp": 3020,
+        "c14_error": 110,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Colvocoressi D. & David N. (1979)",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.42,
+          21.75
+        ]
+      },
+      "properties": {
+        "site_name": "EdjailaIII",
+        "lab_code": "GIF-3462",
+        "c14_age_bp": 3310,
+        "c14_error": 120,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Colvocoressi D. & David N. (1979)",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.48,
+          26.83
+        ]
+      },
+      "properties": {
+        "site_name": "Laasailia",
+        "lab_code": "GIF-3465",
+        "c14_age_bp": 3100,
+        "c14_error": 110,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.55,
+          22.27
+        ]
+      },
+      "properties": {
+        "site_name": "Mahariat",
+        "lab_code": "GIF-3467",
+        "c14_age_bp": 1080,
+        "c14_error": 100,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Colvocoressi D. & David N. (1979)",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.55,
+          22.27
+        ]
+      },
+      "properties": {
+        "site_name": "Mahariat",
+        "lab_code": "GIF-3503",
+        "c14_age_bp": 5360,
+        "c14_error": 120,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Colvocoressi D. & David N. (1979)",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.55,
+          22.27
+        ]
+      },
+      "properties": {
+        "site_name": "Mahariat",
+        "lab_code": "GIF-3504",
+        "c14_age_bp": 6180,
+        "c14_error": 130,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Colvocoressi D. & David N. (1979)",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.8,
+          22.1
+        ]
+      },
+      "properties": {
+        "site_name": "Lemheiris",
+        "lab_code": "GIF-3505",
+        "c14_age_bp": 5810,
+        "c14_error": 120,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.8,
+          22.1
+        ]
+      },
+      "properties": {
+        "site_name": "Lemheiris",
+        "lab_code": "GIF-3507",
+        "c14_age_bp": 4350,
+        "c14_error": 150,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.8,
+          22.1
+        ]
+      },
+      "properties": {
+        "site_name": "Lemheiris",
+        "lab_code": "GIF-3509",
+        "c14_age_bp": 6150,
+        "c14_error": 130,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.42,
+          21.75
+        ]
+      },
+      "properties": {
+        "site_name": "Edjaila",
+        "lab_code": "GIF-3510",
+        "c14_age_bp": 4850,
+        "c14_error": 140,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.55,
+          22.27
+        ]
+      },
+      "properties": {
+        "site_name": "Mahariat",
+        "lab_code": "GIF-3511",
+        "c14_age_bp": 5040,
+        "c14_error": 110,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.55,
+          22.27
+        ]
+      },
+      "properties": {
+        "site_name": "Mahariat",
+        "lab_code": "GIF-3512",
+        "c14_age_bp": 5250,
+        "c14_error": 110,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.42,
+          21.75
+        ]
+      },
+      "properties": {
+        "site_name": "Edjaila",
+        "lab_code": "GIF-3514",
+        "c14_age_bp": 4440,
+        "c14_error": 110,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.55,
+          22.27
+        ]
+      },
+      "properties": {
+        "site_name": "Mahariat",
+        "lab_code": "GIF-3515",
+        "c14_age_bp": 4100,
+        "c14_error": 110,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4,
+          31.25
+        ]
+      },
+      "properties": {
+        "site_name": "Oued Ksob",
+        "lab_code": "GIF-4053",
+        "c14_age_bp": 5700,
+        "c14_error": 120,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0,
+          33.6666
+        ]
+      },
+      "properties": {
+        "site_name": "Kef El Baroud",
+        "lab_code": "GIF-5160",
+        "c14_age_bp": 5160,
+        "c14_error": 110,
+        "material_dated": "charcoal\u00c3\u0192\u00c6\u2019\u00c3\u201a\u00c2",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Borrero 1996",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.87,
+          34.48
+        ]
+      },
+      "properties": {
+        "site_name": "Abri Rihane",
+        "lab_code": "GIF-6184",
+        "c14_age_bp": 3490,
+        "c14_error": 90,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "van Willigen 2008",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.87,
+          34.48
+        ]
+      },
+      "properties": {
+        "site_name": "Abri Rihane",
+        "lab_code": "GIF-6490",
+        "c14_age_bp": 3900,
+        "c14_error": 90,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "van Willigen 2009",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9167,
+          34.0833
+        ]
+      },
+      "properties": {
+        "site_name": "Cha\u00e2ba Bayda Site 3",
+        "lab_code": "GIF-6498",
+        "c14_age_bp": 8560,
+        "c14_error": 120,
+        "material_dated": "eggshell",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Pincon 1991",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.85,
+          34.55
+        ]
+      },
+      "properties": {
+        "site_name": "Chaaba Bayda",
+        "lab_code": "GIF-6828",
+        "c14_age_bp": 9560,
+        "c14_error": 100,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Wengler and Vernet 1992",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9167,
+          34.0833
+        ]
+      },
+      "properties": {
+        "site_name": "Cha\u00e2ba Bayda Site 3",
+        "lab_code": "GIF-6829",
+        "c14_age_bp": 9130,
+        "c14_error": 100,
+        "material_dated": "eggshell",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Wengler 1983-84a Wengler 1987-88 Wengler and Vernet 1992",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0587,
+          34.1194
+        ]
+      },
+      "properties": {
+        "site_name": "Oued Ouziyyane",
+        "lab_code": "GIF-7399",
+        "c14_age_bp": 5700,
+        "c14_error": 110,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Ziolkowski et al 1994",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9506,
+          34.6456
+        ]
+      },
+      "properties": {
+        "site_name": "Oued Nachef",
+        "lab_code": "GIF-7803",
+        "c14_age_bp": 4790,
+        "c14_error": 100,
+        "material_dated": "organic material",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Etchevarne 2000",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8978,
+          33.9808
+        ]
+      },
+      "properties": {
+        "site_name": "Dar es Soltan",
+        "lab_code": "GRN-2805",
+        "c14_age_bp": 5860,
+        "c14_error": 70,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.55,
+          30.35
+        ]
+      },
+      "properties": {
+        "site_name": "Oued Lahouar",
+        "lab_code": "HV-7052",
+        "c14_age_bp": 3715,
+        "c14_error": 130,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.71,
+          30.55
+        ]
+      },
+      "properties": {
+        "site_name": "Tarhazoute",
+        "lab_code": "HV-7055",
+        "c14_age_bp": 6295,
+        "c14_error": 180,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.87,
+          31.95
+        ]
+      },
+      "properties": {
+        "site_name": "Lalla Aicha",
+        "lab_code": "HV-7056",
+        "c14_age_bp": 5875,
+        "c14_error": 175,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.87,
+          31.95
+        ]
+      },
+      "properties": {
+        "site_name": "Lalla Aicha",
+        "lab_code": "HV-7057",
+        "c14_age_bp": 2240,
+        "c14_error": 85,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.67,
+          30.51
+        ]
+      },
+      "properties": {
+        "site_name": "Iguerou Boudar",
+        "lab_code": "HV-7058",
+        "c14_age_bp": 6690,
+        "c14_error": 150,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.82,
+          30.7
+        ]
+      },
+      "properties": {
+        "site_name": "Irhrain Ouamda",
+        "lab_code": "HV-7061",
+        "c14_age_bp": 1995,
+        "c14_error": 135,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.25,
+          32.25
+        ]
+      },
+      "properties": {
+        "site_name": "Jorfel Yhoudi",
+        "lab_code": "HV-7065",
+        "c14_age_bp": 5075,
+        "c14_error": 80,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.87,
+          31.95
+        ]
+      },
+      "properties": {
+        "site_name": "Agadir km45",
+        "lab_code": "HV-7066",
+        "c14_age_bp": 2060,
+        "c14_error": 55,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Kiel DB 2882",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.87,
+          31.95
+        ]
+      },
+      "properties": {
+        "site_name": "Lalla Aicha",
+        "lab_code": "HV-7524",
+        "c14_age_bp": 3365,
+        "c14_error": 110,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "BroscheMolle.1976Geom",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.35,
+          30.68
+        ]
+      },
+      "properties": {
+        "site_name": "Tigguit",
+        "lab_code": "HV-7625",
+        "c14_age_bp": 4375,
+        "c14_error": 145,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Kiel DB",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5525,
+          34.9442
+        ]
+      },
+      "properties": {
+        "site_name": "Mtlili 5 (Moulouya)",
+        "lab_code": "KIA-310011",
+        "c14_age_bp": 6020,
+        "c14_error": 40,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "CalPal",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5476,
+          34.9414
+        ]
+      },
+      "properties": {
+        "site_name": "Mtlili 5",
+        "lab_code": "KIA-310022",
+        "c14_age_bp": 6000,
+        "c14_error": 35,
+        "material_dated": "humic",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5528,
+          34.9474
+        ]
+      },
+      "properties": {
+        "site_name": "Mtlili 1 (Moulouya)",
+        "lab_code": "KIA-310071",
+        "c14_age_bp": 8880,
+        "c14_error": 35,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5475,
+          34.9415
+        ]
+      },
+      "properties": {
+        "site_name": "Mtlili 1",
+        "lab_code": "KIA-310072",
+        "c14_age_bp": 8745,
+        "c14_error": 55,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Linst\u00e4dter 2010a",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5525,
+          34.9442
+        ]
+      },
+      "properties": {
+        "site_name": "Mtlili 5 (Moulouya)",
+        "lab_code": "KIA-310081",
+        "c14_age_bp": 5880,
+        "c14_error": 30,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "CalPal",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2553,
+          35.2144
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri Oudadane",
+        "lab_code": "KIA-39297",
+        "c14_age_bp": 6155,
+        "c14_error": 30,
+        "material_dated": "cereal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Linst\u00e4dter 2012b",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2553,
+          35.2144
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri Oudadane",
+        "lab_code": "KIA-39299",
+        "c14_age_bp": 6400,
+        "c14_error": 90,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Linst\u00e4dter 2010a",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2455,
+          34.7773
+        ]
+      },
+      "properties": {
+        "site_name": "Hassi Ouenzga",
+        "lab_code": "KIA-432",
+        "c14_age_bp": 1820,
+        "c14_error": 30,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Linst\u00e4dter 2004",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2455,
+          34.7773
+        ]
+      },
+      "properties": {
+        "site_name": "Hassi Ouenzga",
+        "lab_code": "KIA-435",
+        "c14_age_bp": 380,
+        "c14_error": 30,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Linst\u00e4dter 2004",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5525,
+          34.9442
+        ]
+      },
+      "properties": {
+        "site_name": "Mtlili 5 (Moulouya)",
+        "lab_code": "KN-5384",
+        "c14_age_bp": 6388,
+        "c14_error": 46,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Karin",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.2986,
+          33.2419
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri Ou Berid",
+        "lab_code": "KN-5919",
+        "c14_age_bp": 6846,
+        "c14_error": 56,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "MikdadNekkal.2012RechPeup",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.2986,
+          33.2419
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri Ou Berid",
+        "lab_code": "KN-5920",
+        "c14_age_bp": 6838,
+        "c14_error": 127,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "MikdadNekkal.2012RechPeup",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.2986,
+          33.2419
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri Ou Berid",
+        "lab_code": "KN-5921",
+        "c14_age_bp": 7524,
+        "c14_error": 105,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.899,
+          32.6377
+        ]
+      },
+      "properties": {
+        "site_name": "Abri de la Dune",
+        "lab_code": "LY-3001",
+        "c14_age_bp": 3885,
+        "c14_error": 50,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Banadora",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4953,
+          32.5172
+        ]
+      },
+      "properties": {
+        "site_name": "Grand Ghilen",
+        "lab_code": "LY-3003",
+        "c14_age_bp": 6410,
+        "c14_error": 70,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Banadora",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4953,
+          32.5172
+        ]
+      },
+      "properties": {
+        "site_name": "Grand Ghilen",
+        "lab_code": "LY-3004",
+        "c14_age_bp": 6440,
+        "c14_error": 60,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8897,
+          32.8238
+        ]
+      },
+      "properties": {
+        "site_name": "Nif Sebbab",
+        "lab_code": "LY-3179",
+        "c14_age_bp": 5270,
+        "c14_error": 70,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7197,
+          32.6362
+        ]
+      },
+      "properties": {
+        "site_name": "Oued Ben Ghart",
+        "lab_code": "LY-3550",
+        "c14_age_bp": 3395,
+        "c14_error": 30,
+        "material_dated": "bone (undetermined)",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.431,
+          35.4965
+        ]
+      },
+      "properties": {
+        "site_name": "Kaf Taht el Ghar",
+        "lab_code": "LY-3821",
+        "c14_age_bp": 6050,
+        "c14_error": 120,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "van Willigen 2006",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0664,
+          34.1826
+        ]
+      },
+      "properties": {
+        "site_name": "Oued Al Gazmir",
+        "lab_code": "LY-4211",
+        "c14_age_bp": 8130,
+        "c14_error": 150,
+        "material_dated": "organic material",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Moure Romanillo A.M. & Gonzalez Morales M. R. 1988. Trabajos de Prehistoria 45: 19-49.",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.431,
+          35.4965
+        ]
+      },
+      "properties": {
+        "site_name": "Kaf Taht el Ghar",
+        "lab_code": "LY-7287",
+        "c14_age_bp": 9910,
+        "c14_error": 50,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Daugas et al. 1989",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.431,
+          35.4965
+        ]
+      },
+      "properties": {
+        "site_name": "Kaf Taht el Ghar",
+        "lab_code": "LY-7288",
+        "c14_age_bp": 6520,
+        "c14_error": 120,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Daugas et al. 1989",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.431,
+          35.4965
+        ]
+      },
+      "properties": {
+        "site_name": "Kaf Taht el Ghar",
+        "lab_code": "LY-7695",
+        "c14_age_bp": 9865,
+        "c14_error": 75,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Daugas et al. 1989",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.431,
+          35.4965
+        ]
+      },
+      "properties": {
+        "site_name": "Kaf Taht el Ghar",
+        "lab_code": "LY-971",
+        "c14_age_bp": 6350,
+        "c14_error": 85,
+        "material_dated": "seed/fruit",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Larsson 2019",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.431,
+          35.4965
+        ]
+      },
+      "properties": {
+        "site_name": "Kaf Taht el Ghar",
+        "lab_code": "LY-971OXA",
+        "c14_age_bp": 6350,
+        "c14_error": 85,
+        "material_dated": "grain",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Carvalho 2008",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9875,
+          33.0847
+        ]
+      },
+      "properties": {
+        "site_name": "Sidi Ali",
+        "lab_code": "MAMS-29773",
+        "c14_age_bp": 5203,
+        "c14_error": 28,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.79,
+          31.45
+        ]
+      },
+      "properties": {
+        "site_name": "Izriten site 16",
+        "lab_code": "MC-708A",
+        "c14_age_bp": 3130,
+        "c14_error": 100,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.79,
+          31.45
+        ]
+      },
+      "properties": {
+        "site_name": "Izriten site 16",
+        "lab_code": "MC-708B",
+        "c14_age_bp": 3830,
+        "c14_error": 100,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.33,
+          28.33
+        ]
+      },
+      "properties": {
+        "site_name": "El Ouarr",
+        "lab_code": "MC-710",
+        "c14_age_bp": 4950,
+        "c14_error": 100,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Gr\u00e9b\u00e9nart 1975",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.2667,
+          28.0
+        ]
+      },
+      "properties": {
+        "site_name": "Izriten (Tarfaya) Site 11",
+        "lab_code": "MC-712",
+        "c14_age_bp": 7000,
+        "c14_error": 500,
+        "material_dated": "bone (human)",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4253,
+          35.8768
+        ]
+      },
+      "properties": {
+        "site_name": "Ghar Kahal",
+        "lab_code": "OXA-11322",
+        "c14_age_bp": 11180,
+        "c14_error": 65,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "HogueBarton.2016Microl",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4253,
+          35.8768
+        ]
+      },
+      "properties": {
+        "site_name": "Ghar Kahal",
+        "lab_code": "OXA-11323",
+        "c14_age_bp": 11125,
+        "c14_error": 65,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4083,
+          34.8106
+        ]
+      },
+      "properties": {
+        "site_name": "Taforalt",
+        "lab_code": "OXA-13479",
+        "c14_age_bp": 10935,
+        "c14_error": 40,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4083,
+          34.8106
+        ]
+      },
+      "properties": {
+        "site_name": "Taforalt",
+        "lab_code": "OXA-13480",
+        "c14_age_bp": 10950,
+        "c14_error": 45,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4083,
+          34.8106
+        ]
+      },
+      "properties": {
+        "site_name": "Taforalt",
+        "lab_code": "OXA-13516",
+        "c14_age_bp": 11065,
+        "c14_error": 45,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "HogueBarton.2016Microl",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4083,
+          34.8106
+        ]
+      },
+      "properties": {
+        "site_name": "Taforalt",
+        "lab_code": "OXA-13517",
+        "c14_age_bp": 10990,
+        "c14_error": 45,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Whittle et al. 2011b 531; Bell 2007",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4083,
+          34.8106
+        ]
+      },
+      "properties": {
+        "site_name": "Taforalt",
+        "lab_code": "OXA-23404",
+        "c14_age_bp": 10870,
+        "c14_error": 45,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Trinkaus E. 2005. Annu. Rev. Anthropol.34: 207-230.",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4083,
+          34.8106
+        ]
+      },
+      "properties": {
+        "site_name": "Taforalt",
+        "lab_code": "OXA-24111",
+        "c14_age_bp": 10680,
+        "c14_error": 45,
+        "material_dated": "bone (undetermined)",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "HogueBarton.2016Microl",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4083,
+          34.8106
+        ]
+      },
+      "properties": {
+        "site_name": "Taforalt",
+        "lab_code": "OXA-24112",
+        "c14_age_bp": 11165,
+        "c14_error": 45,
+        "material_dated": "bone (undetermined)",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9319,
+          33.8806
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri n Amr ou Moussa",
+        "lab_code": "OXA-34042",
+        "c14_age_bp": 6128,
+        "c14_error": 37,
+        "material_dated": "grain (charred)",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Archaeometry 36 2 (1994) 337 - 74. FLAS D. 2002. Antrhopologie et Pr\u00d4\u00f8\u03a9historie 113: 25-49. Flas D. 2008.Anthropologica et Praehistorica 119: 3-253.",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.2986,
+          33.2419
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri Ou Berid",
+        "lab_code": "OXA-7424",
+        "c14_age_bp": 2370,
+        "c14_error": 50,
+        "material_dated": "bone (human)",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3706,
+          32.8042
+        ]
+      },
+      "properties": {
+        "site_name": "Blirh (Upper Moulouya)",
+        "lab_code": "POZ-40743",
+        "c14_age_bp": 2780,
+        "c14_error": 35,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Limondin-LozouetHaddoumi.2013HolMol",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3706,
+          32.8042
+        ]
+      },
+      "properties": {
+        "site_name": "Blirh (Upper Moulouya)",
+        "lab_code": "POZ-40744",
+        "c14_age_bp": 2725,
+        "c14_error": 35,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Limondin-LozouetHaddoumi.2013HolMol",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3706,
+          32.8042
+        ]
+      },
+      "properties": {
+        "site_name": "Blirh (Upper Moulouya)",
+        "lab_code": "POZ-40749",
+        "c14_age_bp": 4450,
+        "c14_error": 35,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Limondin-LozouetHaddoumi.2013HolMol",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3706,
+          32.8042
+        ]
+      },
+      "properties": {
+        "site_name": "Blirh (Upper Moulouya)",
+        "lab_code": "POZ-40750",
+        "c14_age_bp": 4435,
+        "c14_error": 35,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Marciniak et al. 2015: Table 1",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0833,
+          33.8333
+        ]
+      },
+      "properties": {
+        "site_name": "Skhirat (Rouazi)",
+        "lab_code": "POZ-58936",
+        "c14_age_bp": 5740,
+        "c14_error": 35,
+        "material_dated": "bone (human)",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Martinez-SanchezVera-Rodriguez.2018TheMid",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0833,
+          33.8333
+        ]
+      },
+      "properties": {
+        "site_name": "Skhirat (Rouazi)",
+        "lab_code": "POZ-58937",
+        "c14_age_bp": 5720,
+        "c14_error": 35,
+        "material_dated": "bone (human)",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Martinez-SanchezVera-Rodriguez.2018TheMid",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0833,
+          33.8333
+        ]
+      },
+      "properties": {
+        "site_name": "Skhirat (Rouazi)",
+        "lab_code": "POZ-58938",
+        "c14_age_bp": 5800,
+        "c14_error": 35,
+        "material_dated": "bone (human)",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4083,
+          34.8106
+        ]
+      },
+      "properties": {
+        "site_name": "Taforalt",
+        "lab_code": "SA-13",
+        "c14_age_bp": 10800,
+        "c14_error": 400,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "CalPal",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4083,
+          34.8106
+        ]
+      },
+      "properties": {
+        "site_name": "Taforalt",
+        "lab_code": "SA-15",
+        "c14_age_bp": 10500,
+        "c14_error": 400,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Meiklejohn Portugal",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9258,
+          33.9525
+        ]
+      },
+      "properties": {
+        "site_name": "El Harhoura 1",
+        "lab_code": "UBA-8084",
+        "c14_age_bp": 5552,
+        "c14_error": 36,
+        "material_dated": "bone (undetermined)",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.83,
+          35.53
+        ]
+      },
+      "properties": {
+        "site_name": "Oued Tahadart",
+        "lab_code": "UQ-1556",
+        "c14_age_bp": 5600,
+        "c14_error": 200,
+        "material_dated": "shell",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "van Willigen 2006",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8322,
+          33.8749
+        ]
+      },
+      "properties": {
+        "site_name": "Grotte de'El Harhoura",
+        "lab_code": "UQ-1601",
+        "c14_age_bp": 5800,
+        "c14_error": 150,
+        "material_dated": "shell",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "van Willigen 2006",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.12,
+          33.83
+        ]
+      },
+      "properties": {
+        "site_name": "Rouazi Skhirat",
+        "lab_code": "UQ-1888",
+        "c14_age_bp": 5351,
+        "c14_error": 150,
+        "material_dated": "",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Llagostera et al 1997",
+        "notes": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0925,
+          34.7844
+        ]
+      },
+      "properties": {
+        "site_name": "Ifri n'Ammar",
+        "lab_code": "UTC-6183",
+        "c14_age_bp": 11519,
+        "c14_error": 105,
+        "material_dated": "charcoal",
+        "context": "",
+        "database_source": "p3k14c",
+        "reference": "Linst\u00e4dter 2004",
+        "notes": ""
+      }
+    }
+  ]
+}
