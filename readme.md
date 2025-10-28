@@ -14,7 +14,7 @@
     <a href="https://github.com/ElWali/C14MA"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ElWali/C14MA">View Demo</a>
+    <a href="data-explorer.html">View Demo</a>
     ·
     <a href="https://github.com/ElWali/C14MA/issues">Report Bug</a>
     ·
@@ -34,6 +34,7 @@
 
 * [About the Project](#about-the-project)
 * [Final Deliverables](#final-deliverables)
+* [Usage](#usage)
 * [Data Sources](#data-sources)
 * [Features](#features)
 * [Technical Stack](#technical-stack)
@@ -59,6 +60,15 @@
 | English | <div dir="rtl">Arabic</div> |
 |---|---|
 | The project will result in two main files: <br> 1. **`Morocco_c14_data.geojson`**: A standardized GeoJSON file containing all the collected radiocarbon records from Morocco. <br> 2. **`data-explorer.html`**: A single-page, professional-grade web application for visualizing and interacting with the GeoJSON data. | <div dir="rtl">سينتج عن المشروع ملفان رئيسيان: <br> 1. **`Morocco_c14_data.geojson`**: ملف GeoJSON موحد يحتوي على جميع سجلات الكربون المشع التي تم جمعها من المغرب. <br> 2. **`data-explorer.html`**: تطبيق ويب احترافي من صفحة واحدة لتصور بيانات GeoJSON والتفاعل معها.</div> |
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+## Usage
+
+| English | <div dir="rtl">Arabic</div> |
+|---|---|
+| To use the data explorer, simply open the `data-explorer.html` file in your web browser. The application will load the GeoJSON data and display it on an interactive map. You can then use the filter controls to narrow down the data based on your research criteria. | <div dir="rtl">لاستخدام مستكشف البيانات، ما عليك سوى فتح ملف `data-explorer.html` في متصفح الويب الخاص بك. سيقوم التطبيق بتحميل بيانات GeoJSON وعرضها على خريطة تفاعلية. يمكنك بعد ذلك استخدام عناصر التحكم في التصفية لتضييق نطاق البيانات بناءً على معايير البحث الخاصة بك.</div> |
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
