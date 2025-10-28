@@ -8,17 +8,88 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
     <style>
-        body { font-family: sans-serif; }
-        #map { height: 600px; }
-        .filters { margin-bottom: 10px; }
-        .summary { margin-top: 10px; }
+        :root {
+            --primary-color: #2c3e50; /* Dark Slate Blue */
+            --secondary-color: #34495e; /* Wet Asphalt */
+            --accent-color: #95a5a6; /* Silver */
+            --background-color: #ecf0f1; /* Clouds */
+            --font-color: #2c3e50;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--background-color);
+            color: var(--font-color);
+            margin: 0;
+            padding: 1em;
+        }
+        #map {
+            height: 600px;
+            width: 100%;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: var(--primary-color);
+            text-align: center;
+            margin-bottom: 1em;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 1em;
+        }
+        .filters {
+            background-color: #ffffff;
+            padding: 1em;
+            border-radius: 8px;
+            margin-bottom: 1em;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1em;
+            align-items: center;
+        }
+        .filters label {
+            font-weight: bold;
+        }
+        .filters input, .filters select, .filters button {
+            padding: 0.5em;
+            border: 1px solid var(--accent-color);
+            border-radius: 4px;
+            font-size: 1em;
+        }
+        .filters button {
+            background-color: var(--primary-color);
+            color: white;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .filters button:hover {
+            background-color: var(--secondary-color);
+        }
+        .summary {
+            background-color: #ffffff;
+            padding: 1em;
+            border-radius: 8px;
+            margin-top: 1em;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+
+        @media (max-width: 768px) {
+            .filters {
+                flex-direction: column;
+                align-items: stretch;
+            }
+        }
     </style>
 </head>
 <body>
-    <h1>Morocco Radiocarbon Data Explorer</h1>
+    <div class="container">
+        <h1>Morocco Radiocarbon Data Explorer</h1>
 
-    <div class="filters">
-        <label for="age_min">Min Age (BP):</label>
+        <div class="filters">
+            <label for="age_min">Min Age (BP):</label>
         <input type="number" id="age_min" name="age_min">
         <label for="age_max">Max Age (BP):</label>
         <input type="number" id="age_max" name="age_max">
@@ -31,12 +102,13 @@
             <option value="">All</option>
         </select>
         <button id="filter_button">Apply Filter</button>
+        <button id="reset_button">Reset Filter</button>
     </div>
 
     <div id="map"></div>
 
     <div class="summary">
-        <!-- Summary statistics will go here -->
+        <p>Showing <span id="record_count">0</span> records for <span id="site_count">0</span> unique sites.</p>
     </div>
 
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
@@ -102,6 +174,15 @@
                     });
                     window.markers.addLayer(geoJsonLayer);
                     map.addLayer(window.markers);
+
+                    // Update summary
+                    var recordCount = filteredData.features.length;
+                    var siteNames = new Set(filteredData.features.map(function(feature) {
+                        return feature.properties.site_name;
+                    }));
+                    var siteCount = siteNames.size;
+                    document.getElementById('record_count').textContent = recordCount;
+                    document.getElementById('site_count').textContent = siteCount;
                 }
 
                 updateMap(allData); // Initial map load
@@ -134,7 +215,16 @@
                         features: filteredFeatures
                     });
                 });
+
+                document.getElementById('reset_button').addEventListener('click', function() {
+                    document.getElementById('age_min').value = '';
+                    document.getElementById('age_max').value = '';
+                    document.getElementById('material').value = '';
+                    document.getElementById('source').value = '';
+                    updateMap(allData);
+                });
             });
     </script>
+    </div>
 </body>
 </html>
