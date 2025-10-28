@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C14MA | Morocco Radiocarbon Data Explorer</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+    <style>
+        body { font-family: sans-serif; }
+        #map { height: 600px; }
+        .filters { margin-bottom: 10px; }
+        .summary { margin-top: 10px; }
+    </style>
+</head>
+<body>
+    <h1>Morocco Radiocarbon Data Explorer</h1>
+
+    <div class="filters">
+        <label for="age_min">Min Age (BP):</label>
+        <input type="number" id="age_min" name="age_min">
+        <label for="age_max">Max Age (BP):</label>
+        <input type="number" id="age_max" name="age_max">
+        <label for="material">Material:</label>
+        <select id="material" name="material">
+            <option value="">All</option>
+        </select>
+        <label for="source">Source:</label>
+        <select id="source" name="source">
+            <option value="">All</option>
+        </select>
+        <button id="filter_button">Apply Filter</button>
+    </div>
+
+    <div id="map"></div>
+
+    <div class="summary">
+        <!-- Summary statistics will go here -->
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+    <script>
+        var map = L.map('map').setView([31.7917, -7.0926], 6);
+
+        L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+            attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA FSA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+        }).addTo(map);
+
+        fetch('Morocco_c14_data.geojson')
+            .then(function(response) {
+                return response.json();
+            })
+            .then(function(data) {
+                var markers = L.markerClusterGroup();
+                var allData = data; // Keep a copy of all data
+
+                // Populate filter dropdowns
+                var materials = [];
+                var sources = [];
+                allData.features.forEach(function(feature) {
+                    if (materials.indexOf(feature.properties.material_dated) === -1) {
+                        materials.push(feature.properties.material_dated);
+                    }
+                    if (sources.indexOf(feature.properties.database_source) === -1) {
+                        sources.push(feature.properties.database_source);
+                    }
+                });
+
+                var materialSelect = document.getElementById('material');
+                materials.sort().forEach(function(material) {
+                    var option = document.createElement('option');
+                    option.value = material;
+                    option.text = material;
+                    materialSelect.add(option);
+                });
+
+                var sourceSelect = document.getElementById('source');
+                sources.sort().forEach(function(source) {
+                    var option = document.createElement('option');
+                    option.value = source;
+                    option.text = source;
+                    sourceSelect.add(option);
+                });
+
+                function updateMap(filteredData) {
+                    if (window.markers) {
+                        map.removeLayer(window.markers);
+                    }
+                    window.markers = L.markerClusterGroup();
+                    var geoJsonLayer = L.geoJSON(filteredData, {
+                        onEachFeature: function (feature, layer) {
+                            layer.bindPopup(
+                                '<strong>Site:</strong> ' + feature.properties.site_name + '<br>' +
+                                '<strong>Lab Code:</strong> ' + feature.properties.lab_code + '<br>' +
+                                '<strong>C14 Age BP:</strong> ' + feature.properties.c14_age_bp + ' ± ' + feature.properties.c14_error + '<br>' +
+                                '<strong>Material:</strong> ' + feature.properties.material_dated + '<br>' +
+                                '<strong>Source:</strong> ' + feature.properties.database_source
+                            );
+                        }
+                    });
+                    window.markers.addLayer(geoJsonLayer);
+                    map.addLayer(window.markers);
+                }
+
+                updateMap(allData); // Initial map load
+
+                document.getElementById('filter_button').addEventListener('click', function() {
+                    var ageMin = document.getElementById('age_min').value;
+                    var ageMax = document.getElementById('age_max').value;
+                    var material = document.getElementById('material').value;
+                    var source = document.getElementById('source').value;
+
+                    var filteredFeatures = allData.features.filter(function(feature) {
+                        var age = feature.properties.c14_age_bp;
+                        if (ageMin && age < ageMin) {
+                            return false;
+                        }
+                        if (ageMax && age > ageMax) {
+                            return false;
+                        }
+                        if (material && feature.properties.material_dated !== material) {
+                            return false;
+                        }
+                        if (source && feature.properties.database_source !== source) {
+                            return false;
+                        }
+                        return true;
+                    });
+
+                    updateMap({
+                        type: 'FeatureCollection',
+                        features: filteredFeatures
+                    });
+                });
+            });
+    </script>
+</body>
+</html>
