@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-10-28T14:47:27Z",
+  "sources_attempted": [
+    "p3k14c",
+    "xronos",
+    "opencontext"
+  ],
+  "sources_successful": [],
+  "records_fetched": {
+    "p3k14c": "skipped (inaccessible)",
+    "xronos": 0,
+    "opencontext": 0
+  },
+  "records_after_deduplication": 170
+}
